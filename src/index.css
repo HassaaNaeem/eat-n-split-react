@@ -135,6 +135,7 @@ label {
 input,
 select {
   font-family: inherit;
+  background-color: var(--color-lightest);
   color: inherit;
   font-size: 1.5rem;
   padding: 0.7rem;
